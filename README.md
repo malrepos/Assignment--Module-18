@@ -47,7 +47,7 @@ Three transactions were sent and the blocks mined. The below images shows the le
 
 Here is an expanded view of the blockchain to display all fields in each block.
 
-![Expanded Blocks Image](Images\expanded_block_list.JPG)
+![Expanded Blocks Image](https://github.com/malrepos/Assignment--Module-18/blob/main/Images/expanded_block_list.JPG)
 
 ---
 
