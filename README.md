@@ -55,4 +55,4 @@ Here is an expanded view of the blockchain to display all fields in each block.
 
 The blockchain has been validated as True, meaning no manipulation or modification of the blockchain has occurred.
 
-![Validation True](Images\pychain_validate_true.JPG)
+![Validation True](https://github.com/malrepos/Assignment--Module-18/blob/main/Images/pychain_validate_true.JPG)
