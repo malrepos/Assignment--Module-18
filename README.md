@@ -2,9 +2,9 @@
 
 ## Purpose
 
-To build a blockchain based application with a user friendly web interface.
+The purpose of this assignment is to build a blockchain based application with a user friendly web interface.
 
-The app allows users to send amounts (transactions) between one account and another, specifying the amount.
+The application allows users to send amounts (transactions) between one account and another, specifying the amount.
 
 This transaction is then mined in a block and added to a blockchain. The blockchain, or list of blocks is displayed, including the sender, receiver, amount, hash and nonce.
 
@@ -20,9 +20,10 @@ Finally, the blockchain is able to be validated by the user to ensure no manipul
 
 - The streamlit application was revised to include the fields "sender", "receiver" and "amount". The user is able to enter information into these fields as part of creating a block.
 
-- When a new block is created, it will now include an instance of a Record class, taking the parameters from the "Sender", "receiver" and "amount" fields the user entered on teh app.
+- When a new block is created, it will now include an instance of a Record class, taking the parameters from the "sender", "receiver" and "amount" fields the user entered on the streamlit web interface.
 
-- The streamlit app was run.
+- The streamlit app was run using
+  `streamlit run pychain.py`.
 
 - Three blocks were added successfully.
 
