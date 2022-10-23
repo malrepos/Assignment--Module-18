@@ -35,7 +35,7 @@ Finally, the blockchain is able to be validated by the user to ensure no manipul
 
 The below image shows the running streamlit pychain application with only the genesis block present.
 
-![](Images\pychain_clean.JPG)
+![Clean Application](Images\pychain_clean.JPG)
 
 ---
 
@@ -43,11 +43,11 @@ The below image shows the running streamlit pychain application with only the ge
 
 Three transactions were sent and the blocks mined. The below images shows the ledger of blocks.
 
-![](Images\pychain_blocks_added.JPG)
+![Blocks Added](Images\pychain_blocks_added.JPG)
 
 Here is an expanded view of the blockchain to display all fields in each block.
 
-![](Images\expanded_block_list.JPG)
+![Expanded Blocks Image](Images\expanded_block_list.JPG)
 
 ---
 
@@ -55,4 +55,4 @@ Here is an expanded view of the blockchain to display all fields in each block.
 
 The blockchain has been validated as True, meaning no manipulation or modification of the blockchain has occurred.
 
-![](Images\pychain_validate_true.JPG)
+![Validation True](Images\pychain_validate_true.JPG)
