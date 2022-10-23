@@ -35,7 +35,7 @@ Finally, the blockchain is able to be validated by the user to ensure no manipul
 
 The below image shows the running streamlit pychain application with only the genesis block present.
 
-![Clean Application](Images\pychain_clean.JPG)
+![Clean Application](https://github.com/malrepos/Assignment--Module-18/blob/main/Images/pychain_clean.JPG)
 
 ---
 
