@@ -43,7 +43,7 @@ The below image shows the running streamlit pychain application with only the ge
 
 Three transactions were sent and the blocks mined. The below images shows the ledger of blocks.
 
-![Blocks Added](Images\pychain_blocks_added.JPG)
+![Blocks Added](https://github.com/malrepos/Assignment--Module-18/blob/main/Images/pychain_blocks_added.JPG)
 
 Here is an expanded view of the blockchain to display all fields in each block.
 
